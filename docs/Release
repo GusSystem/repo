@@ -1,0 +1,12 @@
+Origin: Gus's Repo
+Label: Gus's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo that contains some tweaks for older versions of iOS
+
+SHA256:
+ a9a22fbb7ec6a33a71d748af946a3457645f8afb3495898ffb7e02289f473003 5580 Packages.bz2
+ ecbfffce5ea1ecc5def856386caa2020e122314496f23cfc224842e1b51453cb 5524 Packages.xz
