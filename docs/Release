@@ -8,5 +8,5 @@ Components: main
 Description: A repo that contains some tweaks for older versions of iOS
 
 SHA256:
- d05e3734abe35dcf65f4bf0deca01562c16ea179710d81fb5cde211ffa496119 5901 Packages.bz2
- c510e6ea4fac08bbe8ec629b394597d216d53657025bfea8fba3c484a823bb49 5864 Packages.xz
+ 8c16bf8aa0617d6aed1c55c4aaf9b4e74cf1a4810bf67427ebaa52d44296eba6 1907 Packages.bz2
+ c61156d0997691abb6449fd16d378e790cc392efb95270f199d69cb801971491 1752 Packages.xz
